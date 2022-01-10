@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Surabhi23B
+- 👋 Hi, I’m @Surabhi Bhattacharjee
 - 👀 I’m interested in networking with React Developers
 - 🌱 I’m currently hiring React developers
 - 💞️ I’m looking to collaborate with job opportunity for Delhi location
